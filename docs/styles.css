@@ -359,7 +359,6 @@ body {
 
 #toggle-navigation-menu:hover {
     background-color: color-mix(in srgb, var(--color-accent-2) 20%, transparent);
-    transform: scale(1.05);
 }
 
 /* Hamburger icon sizing and toggling */
