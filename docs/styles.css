@@ -234,7 +234,7 @@ body {
 
 @media (min-width: 640px) {
     #main-header {
-        padding: 1rem 2rem 0.5rem 2rem; /* Match main content sm:px-8 */
+        padding: 1rem 2rem 0.5rem 0rem; /* Match main content sm:px-8 */
     }
 }
 
@@ -743,7 +743,6 @@ button:focus-visible {
     #main-header {
         /* Keep fixed positioning - only adjust padding */
         padding-bottom: 0.25rem;
-        padding-left: 0;
         /* Remove margin-bottom since fixed headers don't need margin */
     }
 
