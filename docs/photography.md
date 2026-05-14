@@ -80,8 +80,8 @@
   <img src="assets/gallery/P5061385 (2k).JPG" alt="Alfa Romeo museum. Italy, 2026.">
   <img src="assets/gallery/P5081566 (2k).JPG" alt="Light shining on a stump in a German forest. Germany, 2026.">
   <img src="assets/gallery/WP_20170610_12_49_16_Rich (2) (2k).jpg" alt="Street cat portrait. Malaysia, 2017.">
-  <img src="assets/gallery/_DSC2573 (2k).JPG" alt="Woman running along the Danube. Austria, 2025.">
-  <img src="assets/gallery/_DSC2579 (2k).JPG" alt="Street scene of two women in Vienna. Austria, 2025.">
+  <img src="assets/gallery/DSC2573 (2k).JPG" alt="Woman running along the Danube. Austria, 2025.">
+  <img src="assets/gallery/DSC2579 (2k).JPG" alt="Street scene of two women in Vienna. Austria, 2025.">
   <img src="assets/gallery/img3 (2k).jpg" alt="Wolf howling at Animal Park at the Conservators Center. United States, 2018.">
   <img src="assets/gallery/img4 (2k).jpg" alt="Girl carving a pumpkin at University Halloween event. United States, 2019.">
   <img src="assets/gallery/img6 (2k).jpg" alt="Brandenburg Gate in Berlin at night. Germany, 2019.">
