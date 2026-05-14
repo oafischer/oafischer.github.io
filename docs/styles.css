@@ -743,6 +743,7 @@ button:focus-visible {
     #main-header {
         /* Keep fixed positioning - only adjust padding */
         padding-bottom: 0.25rem;
+        padding-left: 0;
         /* Remove margin-bottom since fixed headers don't need margin */
     }
 
