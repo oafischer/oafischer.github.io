@@ -103,6 +103,7 @@
         <div class="publication-tags">
             <span class="tag tag-type">Feature story</span>
             <a href="https://www.thetimesnews.com/" class="tag tag-publisher">Times-News Burlington</a>
+            <span class="tag tag-extra">Archived</span>
         </div>
     </div>
 </div>
@@ -123,7 +124,6 @@
         <div class="publication-tags">
             <span class="tag tag-type">Feature story</span>
             <a href="https://oliverfischer4.wordpress.com/" class="tag tag-publisher">ePortfolio</a>
-            <span class="tag tag-extra">Deprecated</span>
         </div>
     </div>
 </div>
