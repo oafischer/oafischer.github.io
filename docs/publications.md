@@ -43,6 +43,7 @@
         <div class="publication-tags">
             <span class="tag tag-type">In-depth feature story</span>
             <a href="https://www.elonnewsnetwork.com/" class="tag tag-publisher">Elon News Network</a>
+            <a href="https://www.youtube.com/watch?v=LnDPbRbSZP4" class="tag tag-extra">Video</a> 
         </div>
     </div>
 </div>
@@ -63,6 +64,7 @@
         <div class="publication-tags">
             <span class="tag tag-type">In-depth feature story</span>
             <a href="https://student.elon.edu/ofischer/" class="tag tag-publisher">ePortfolio</a>
+            <a href="https://www.youtube.com/watch?v=RNU0d4E2MKA" class="tag tag-extra">Video</a> 
         </div>
     </div>
 </div>
@@ -124,6 +126,7 @@
         <div class="publication-tags">
             <span class="tag tag-type">Feature story</span>
             <a href="https://oliverfischer4.wordpress.com/" class="tag tag-publisher">ePortfolio</a>
+            <a href="https://www.youtube.com/watch?v=59axjiVj15A" class="tag tag-extra">Video</a> 
         </div>
     </div>
 </div>
