@@ -99,12 +99,12 @@
                 Elonwabeni shelter shares successes, challenges at fundraiser
             </a>
         </h3>
-        <div class="publication-preview">LANGENWIES, GERMANY - Almost 6000 miles apart, yet directly connected by one cause. As the barbecue meat grills and volunteers rush to help with final preparations, guests start arriving at a secluded farm in the Bavarian countryside. Some have traveled halfway across the country to attend the Elonwabeni Child & Family Centre fundraising brunch. The shelter, located in Cape Town, South Africa, hosts the brunch yearly, uniting those with the common goal of supporting children in need.</div>
+        <div class="publication-preview">The South African child and family center Elonwabeni hosted its annual fundraiser on a farmhouse in Langenwies on July 7th. Attendees and donors, with the common goal of helping children in need, shared brunch and learned about ongoing shelter projects.</div>
         <div class="publication-authors">Oliver Fischer</div>
         <div class="publication-year">Aug. 14, 2024</div>
         <div class="publication-tags">
             <span class="tag tag-type">Event coverage</span>
-            <a href="https://oafischer.github.io/" class="tag tag-publisher">ePortfolio</a>
+            <span class="tag tag-publisher">ePortfolio</span>
         </div>
     </div>
 </div>
