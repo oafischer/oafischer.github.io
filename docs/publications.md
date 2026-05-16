@@ -90,6 +90,26 @@
 </div>
 
 <div class="publication-card">
+    <div class="publication-image">
+        <img src="assets/1654.jpg" alt="Featured image">
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="https://oafischer.github.io/elonwabeni/" class="publication-link">
+                Elonwabeni shelter shares successes, challenges at fundraiser
+            </a>
+        </h3>
+        <div class="publication-preview">LANGENWIES, GERMANY - Almost 6000 miles apart, yet directly connected by one cause. As the barbecue meat grills and volunteers rush to help with final preparations, guests start arriving at a secluded farm in the Bavarian countryside. Some have traveled halfway across the country to attend the Elonwabeni Child & Family Centre fundraising brunch. The shelter, located in Cape Town, South Africa, hosts the brunch yearly, uniting those with the common goal of supporting children in need.</div>
+        <div class="publication-authors">Oliver Fischer</div>
+        <div class="publication-year">Aug. 14, 2024</div>
+        <div class="publication-tags">
+            <span class="tag tag-type">Event coverage</span>
+            <a href="https://oafischer.github.io/" class="tag tag-publisher">ePortfolio</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-card">
 <div class="publication-image">
         <img src="assets/pfar.jpg" alt="Featured image">
     </div>
