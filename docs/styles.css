@@ -1318,6 +1318,24 @@ html {
     font-weight: 500;
 }
 
+@media (max-width: 768px) {
+    .gallery-modal-content {
+        max-width: 95%;
+        max-height: 85%;
+    }
+    
+    .gallery-modal-caption {
+        width: 90%;
+        font-size: 0.9rem;
+    }
+    
+    .gallery-modal-close {
+        top: 10px;
+        right: 20px;
+        font-size: 30px;
+    }
+}
+
 @media (max-width: 640px) {
     .gallery-modal-content {
         max-width: 95%;
