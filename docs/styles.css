@@ -719,8 +719,8 @@ button:focus-visible {
     }
 
     /* Add spacing after logo on mobile */
-    .header-logo { margin-right: 5px; }
-    .header-logo { margin-left: -50px; }
+    .header-logo { margin-right: 15px; }
+    .header-logo { margin-left: -10px; }
 
     /* Enlarge hamburger icon visuals on mobile */
     #toggle-navigation-menu svg {
