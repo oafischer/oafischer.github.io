@@ -1151,7 +1151,7 @@ html {
 /* ============================= */
 .resources-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
     gap: 1.5rem;
     margin-top: 1.5rem;
 }
@@ -1175,7 +1175,7 @@ html {
 
 .resource-preview {
     width: 100%;
-    aspect-ratio: 4/3;
+    aspect-ratio: 1;
     overflow: hidden;
     background-color: var(--color-border);
 }
@@ -1221,18 +1221,6 @@ html {
 /* Dark theme link hover */
 [data-theme="dark"] .resource-card:hover .resource-name {
     color: #b7bdf8;
-}
-
-@media (max-width: 767px) {
-    .resources-grid {
-        grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-        gap: 1rem;
-    }
-
-    .resource-name {
-        font-size: 0.7rem;
-        padding: 0.5rem;
-    }
 }
 
 /* Gallery styles */

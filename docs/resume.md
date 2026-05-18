@@ -107,7 +107,7 @@
       <span class="timeline-dates">May 2019 - Aug 2019</span>
     </div>
     <div class="timeline-meta">Burlington, NC</div>
-    <div class="timeline-desc">• Wrote business, news and feature stories for the newspaper, online, and Alamance Living magazine</div>
+    <div class="timeline-desc">• Wrote business, news, and feature stories for the newspaper, online, and Alamance Living magazine</div>
     <div class="timeline-desc">• Worked as a photographer and completed editing tasks according to AP style</div>
   </div>
 
