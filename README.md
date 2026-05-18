@@ -1,6 +1,6 @@
-# Readme
+# README
 
-Personal portfolio website.
+Personal portfolio website
 
 # Access site
 
