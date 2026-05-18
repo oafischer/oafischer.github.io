@@ -2,16 +2,16 @@
 
 Personal portfolio website
 
-# Access site
+## Access site
 
 [https://oafischer.github.io/](https://oafischer.github.io/)
 
-# Serve locally
+## Serve locally
 
 ```bash
 python3 -m http.server 9000 -d docs/
 ```
 
-# Credits
+## Credits
 
 Based on [astro-theme-cactus](https://astro-cactus.chriswilliams.dev/)
