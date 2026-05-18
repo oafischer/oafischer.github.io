@@ -217,7 +217,7 @@ body {
     column-gap: 1rem;
 }
 
-.header-logo { grid-area: logo; align-self: center; margin-right: 0px; margin-left: -20px; }
+.header-logo { grid-area: logo; align-self: center; margin-right: 10px; margin-left: 30px; }
 .header-title { grid-area: title; align-self: center; color: var(--color-accent); }
 .header-nav { grid-area: nav; align-self: center; }
 .header-controls { 
