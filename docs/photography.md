@@ -71,14 +71,25 @@
   <img src="assets/gallery/P3270610 (2k).JPG" alt="View from Lavertezzo. Switzerland, 2026.">
   <img src="assets/gallery/P3270651 (2k).JPG" alt="Street scene of cyclists in Locarno. Switzerland, 2026.">
   <img src="assets/gallery/P3270661 (2k).JPG" alt="Street scene of cyclists in Locarno. Switzerland, 2026.">
-  <img src="assets/gallery/P5031207 (2k).JPG" alt="German countryside. Germany, 2026.">
   <img src="assets/gallery/P5031233 (2k).JPG" alt="Man starting the engine on his aircraft. Germany, 2026.">
-  <img src="assets/gallery/P5041259 (2k).JPG" alt="View from Schloss Neuschwanstein. Germany, 2026.">
   <img src="assets/gallery/P5041263 (2k).JPG" alt="Schloss Neuschwanstein. Germany, 2026.">
   <img src="assets/gallery/P5041278 (2k).JPG" alt="Street scene from Zürich on a cloudy day. Switzerland, 2026.">
   <img src="assets/gallery/P5051363 (2k).JPG" alt="View of the Alps and a rainbow from Steinen. Switzerland, 2026.">
   <img src="assets/gallery/P5061385 (2k).JPG" alt="Alfa Romeo museum. Italy, 2026.">
-  <img src="assets/gallery/P5081566 (2k).JPG" alt="Light shining on a stump in a German forest. Germany, 2026.">
+  <img src="assets/gallery/P7042006_DxO (2k).jpg" alt="Swiss aircraft landing at Zürich airport. Switzerland, 2026.">
+  <img src="assets/gallery/P7092071 (2k).jpg" alt="Cat resting with a mountain view. Germany, 2026.">
+  <img src="assets/gallery/P7092108 (2k).jpg" alt="Hiker on an alpine trail. Germany, 2026.">
+  <img src="assets/gallery/P7092112 (2k).jpg" alt="Alpine hiking trail. Germany, 2026.">
+  <img src="assets/gallery/P7102174 (2k).jpg" alt="Mountain ravine with wildflowers. Germany, 2026.">
+  <img src="assets/gallery/FDCS0056_DxO (2k).jpg" alt="Boylan Pearce Co building. United States, 2026.">
+  <img src="assets/gallery/FDCS0064_DxO (2k).jpg" alt="Person walking with a crutch on a city street. United States, 2026.">
+  <img src="assets/gallery/FDCS0080_DxO (2k).jpg" alt="Weathered brick wall with overgrown vines. United States, 2026.">
+  <img src="assets/gallery/FDCS0092_DxO (2k).jpg" alt="Tesla Cybertruck parked on a city street. United States, 2026.">
+  <img src="assets/gallery/L1000037 (2k).jpg" alt="People sitting outside a historic church in Salzburg. Austria, 2026.">
+  <img src="assets/gallery/L1000120 (2k).jpg" alt="Columns with hanging flowers at Mirabell Gardens. Austria, 2026.">
+  <img src="assets/gallery/L1000131 (2k).jpg" alt="Two women sitting on a park bench. Austria, 2026.">
+  <img src="assets/gallery/L1000135 (2k).jpg" alt="View of Salzburg from the Salzach. Austria, 2026.">
+  <img src="assets/gallery/L1010006_DxO (2k).jpg" alt="House with potted plants and solar panels. Germany, 2026.">
   <img src="assets/gallery/WP_20170610_12_49_16_Rich (2) (2k).jpg" alt="Street cat portrait. Malaysia, 2017.">
   <img src="assets/gallery/DSC2573 (2k).JPG" alt="Woman running along the Danube. Austria, 2025.">
   <img src="assets/gallery/DSC2579 (2k).JPG" alt="Street scene of two women in Vienna. Austria, 2025.">

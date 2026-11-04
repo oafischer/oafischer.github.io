@@ -23,7 +23,7 @@
       <span class="timeline-dates">Dec 2019</span>
     </div>
     <div class="timeline-meta">Elon, NC</div>
-    <div class="timeline-desc">Bachelor of Arts: Journalism (GPA: 3.7)</div>
+    <div class="timeline-desc">Bachelor of Arts: Journalism (Minor: Music Technology) (GPA: 3.7)</div>
     <div class="timeline-desc">Honors: International Scholarship recipient, Lambda Pi Eta member</div>
   </div>
 
@@ -41,9 +41,10 @@
       <span class="timeline-dates">Jun 2022 - Present</span>
     </div>
     <div class="timeline-meta">Raleigh, NC & Munich, Germany</div>
-    <div class="timeline-desc">• Wrote and edited technical documentation for open source hybrid cloud software</div>
-    <div class="timeline-desc">• Collaborated on GitHub with developers and SMEs to solve documentation issues</div>
-    <div class="timeline-desc">• Edited technical blogs, reviewed UI content, and used agile scrum techniques</div>
+    <div class="timeline-desc">• Wrote and edited technical documentation and UI strings in an agile scrum environment</div>
+    <div class="timeline-desc">• Collaborated on GitHub with developers and SMEs to solve documentation bugs</div>
+    <div class="timeline-desc">• Supported the conversion from a docs-as-code (AsciiDoc) to a CMS (DITA) framework</div>
+    <div class="timeline-desc">• Implemented and used agentic workflows (Cursor) to accelerate documentation overhauls</div>
   </div>
 
   <div class="timeline-item">
@@ -90,7 +91,7 @@
     </div>
     <div class="timeline-meta">Schwandorf, Germany</div>
     <div class="timeline-desc">• Translated parts of the website and designed English RMA forms</div>
-    <div class="timeline-desc">• Repaired hardware and software problems on laptops</div>
+    <div class="timeline-desc">• Repaired hardware and fixed software problems on laptops</div>
   </div>
 
 </div>
