@@ -28,4 +28,4 @@ I currently work as a technical writer at Red Hat where I write, edit, and maint
 
 I'm a volunteer on the ACM SIGDOC Structured Authoring Steering Committee and a member of the OASIS DITA Technical Committee.
 
-In my free time, I enjoy street and travel photography, wrenching on cars, and tinkering with mechanical keyboards or PC builds.
+In my free time, I enjoy street and travel photography, wrenching on cars, and tinkering with mechanical keyboards or PC builds. On occasion, I still pick up my guitar as well.
