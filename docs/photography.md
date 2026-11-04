@@ -55,7 +55,6 @@
   <img src="assets/gallery/P1070252 (2k).JPG" alt="Courtyard in Thun. Switzerland, 2025.">
   <img src="assets/gallery/P1070275 (2k).JPG" alt="Street view of Bern. Switzerland, 2025.">
   <img src="assets/gallery/P1070279 (2k).JPG" alt="Woman cycling in Bern. Switzerland, 2025.">
-  <img src="assets/gallery/P1070378 (2k).JPG" alt="Aircraft landing at Zürich airport. Switzerland, 2025.">
   <img src="assets/gallery/P1070780 (2k).JPG" alt="Tractor pulling event. Germany, 2025.">
   <img src="assets/gallery/P1080403 (2k).JPG" alt="Cat looking out a window. Austria, 2025.">
   <img src="assets/gallery/P1080500 (2k).JPG" alt="Cat portrait. Austria, 2025.">
@@ -92,7 +91,6 @@
   <img src="assets/gallery/L1010006_DxO (2k).jpg" alt="House with potted plants and solar panels. Germany, 2026.">
   <img src="assets/gallery/WP_20170610_12_49_16_Rich (2) (2k).jpg" alt="Street cat portrait. Malaysia, 2017.">
   <img src="assets/gallery/DSC2573 (2k).JPG" alt="Woman running along the Danube. Austria, 2025.">
-  <img src="assets/gallery/DSC2579 (2k).JPG" alt="Street scene of two women in Vienna. Austria, 2025.">
   <img src="assets/gallery/img3 (2k).jpg" alt="Wolf howling at Animal Park at the Conservators Center. United States, 2018.">
   <img src="assets/gallery/img4 (2k).jpg" alt="Girl carving a pumpkin at University Halloween event. United States, 2019.">
   <img src="assets/gallery/img6 (2k).jpg" alt="Brandenburg Gate in Berlin at night. Germany, 2019.">
