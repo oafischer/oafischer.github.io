@@ -22,7 +22,7 @@
   </div>
 </div>
 
-I'm a technical communicator with a background in journalism.
+I'm a technical communicator with a background in journalism and music tech.
 
 I currently work as a technical writer at Red Hat where I write, edit, and maintain documentation for Red Hat Advanced Cluster Management for Kubernetes.
 
