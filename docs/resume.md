@@ -44,7 +44,7 @@
     <div class="timeline-desc">• Wrote and edited technical documentation and UI strings in an agile scrum environment</div>
     <div class="timeline-desc">• Collaborated on GitHub with developers and SMEs to solve documentation bugs</div>
     <div class="timeline-desc">• Supported the conversion from a docs-as-code (AsciiDoc) to a CMS (DITA) framework</div>
-    <div class="timeline-desc">• Implemented and used agentic workflows (Cursor) to accelerate documentation overhauls</div>
+    <div class="timeline-desc">• Implemented and used agentic AI workflows to accelerate documentation overhauls</div>
   </div>
 
   <div class="timeline-item">
